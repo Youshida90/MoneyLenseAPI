@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Salary",
+    "icon": "https://raw.githubusercontent.com/Youshida90/Icons/refs/heads/main/Income%20Category/earning.png"
+  },
+  {
+    "name": "Freelance",
+    "icon": "https://raw.githubusercontent.com/Youshida90/Icons/refs/heads/main/Income%20Category/loan.png"
+  },
+  {
+    "name": "Business",
+    "icon": "https://raw.githubusercontent.com/Youshida90/Icons/refs/heads/main/Income%20Category/businessman.png"
+  },
+  {
+    "name": "Investment",
+    "icon": "https://raw.githubusercontent.com/Youshida90/Icons/refs/heads/main/Income%20Category/interest-rate.png"
+  },
+  {
+    "name": "Rental",
+    "icon": "https://raw.githubusercontent.com/Youshida90/Icons/refs/heads/main/Income%20Category/real-estate-agency.png"
+  },
+  {
+    "name": "Gifts",
+    "icon": "https://raw.githubusercontent.com/Youshida90/Icons/refs/heads/main/Income%20Category/gift.png"
+  },
+  {
+    "name": "Refund",
+    "icon": "https://raw.githubusercontent.com/Youshida90/Icons/refs/heads/main/Income%20Category/refund.png"
+  },
+  {
+    "name": "Other",
+    "icon": "https://raw.githubusercontent.com/Youshida90/Icons/refs/heads/main/TodoApp/more.png"
+  }
+]
