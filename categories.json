@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Salary",
+    "icon": "https://raw.githubusercontent.com/Youshida90/Icons/refs/heads/main/Income%20Category/earning.png",
+    "type": "income"
+  },
+  {
+    "name": "Freelance",
+    "icon": "https://raw.githubusercontent.com/Youshida90/Icons/refs/heads/main/Income%20Category/loan.png",
+    "type": "income"
+  },
+  {
+    "name": "Business",
+    "icon": "https://raw.githubusercontent.com/Youshida90/Icons/refs/heads/main/Income%20Category/businessman.png",
+    "type": "income"
+  },
+  {
+    "name": "Investment",
+    "icon": "https://raw.githubusercontent.com/Youshida90/Icons/refs/heads/main/Income%20Category/interest-rate.png",
+    "type": "income"
+  },
+  {
+    "name": "Rental",
+    "icon": "https://raw.githubusercontent.com/Youshida90/Icons/refs/heads/main/Income%20Category/real-estate-agency.png",
+    "type": "income"
+  },
+  {
+    "name": "Gifts",
+    "icon": "https://raw.githubusercontent.com/Youshida90/Icons/refs/heads/main/Income%20Category/gift.png",
+    "type": "income"
+  },
+  {
+    "name": "Refund",
+    "icon": "https://raw.githubusercontent.com/Youshida90/Icons/refs/heads/main/Income%20Category/refund.png",
+    "type": "income"
+  },
+  {
+    "name": "Personal",
+    "icon": "https://raw.githubusercontent.com/Youshida90/icons/main/TodoApp/man.png",
+    "type": "expense"
+  },
+  {
+    "name": "Home",
+    "icon": "https://raw.githubusercontent.com/Youshida90/icons/main/TodoApp/house.png",
+    "type": "expense"
+  },
+  {
+    "name": "Shopping",
+    "icon": "https://raw.githubusercontent.com/Youshida90/icons/main/TodoApp/trolley.png",
+    "type": "expense"
+  },
+  {
+    "name": "Sport",
+    "icon": "https://raw.githubusercontent.com/Youshida90/icons/main/TodoApp/sport.png",
+    "type": "expense"
+  },
+  {
+    "name": "Health",
+    "icon": "https://raw.githubusercontent.com/Youshida90/icons/main/TodoApp/healthcare.png",
+    "type": "expense"
+  },
+  {
+    "name": "Travel",
+    "icon": "https://raw.githubusercontent.com/Youshida90/icons/main/TodoApp/travel.png",
+    "type": "expense"
+  },
+  {
+    "name": "Education",
+    "icon": "https://raw.githubusercontent.com/Youshida90/icons/main/TodoApp/education.png",
+    "type": "expense"
+  },
+  {
+    "name": "Otherincome",
+    "icon": "https://raw.githubusercontent.com/Youshida90/Icons/refs/heads/main/TodoApp/more.png",
+    "type": "income"
+  },
+  {
+    "name": "Otherexpense",
+    "icon": "https://raw.githubusercontent.com/Youshida90/Icons/refs/heads/main/TodoApp/more.png",
+    "type": "expense"
+  }
+]
